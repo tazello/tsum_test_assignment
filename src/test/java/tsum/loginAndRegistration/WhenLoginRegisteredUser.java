@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import tsum.steps.User;
 
 @RunWith(SerenityRunner.class)
-@Narrative(text={"User wants to see profile"})
+@Narrative(text={"User can get signed up"})
 public class WhenLoginRegisteredUser {
 
     @Steps

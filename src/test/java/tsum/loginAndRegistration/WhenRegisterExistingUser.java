@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import tsum.steps.User;
 
 @RunWith(SerenityRunner.class)
-@Narrative(text={"Karl is an idiot"})
+@Narrative(text={"Masha tries to sign in with already registered email ang gets an error "})
 
 public class WhenRegisterExistingUser {
 
