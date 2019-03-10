@@ -8,7 +8,7 @@ Contains 2 tests on registration form and 2 tests on login form.
 
 Git:
 
-    git clone https://github.com/tazello/tsum_test.git
+    git clone https://github.com/tazello/tsum_test_assigment.git
 
 ## Use Gradle
 
