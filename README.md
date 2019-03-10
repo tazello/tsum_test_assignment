@@ -23,3 +23,10 @@ Open a command window and run:
 
 Reports with screenshots are generating into `target/site/serenity` directory.
 
+
+# Tests
+* WhenLoginRegisteredUser - positive case login
+* WhenLoginWithIncorrectEmail - negative case login
+* WhenRegisterExistingUser - negative case of registration
+* WhenRegisterNewUser - positive case of registration
+
