@@ -8,9 +8,7 @@ Contains 2 tests on registration form and 2 tests on login form.
 
 Git:
 
-    git clone https://github.com/serenity-bdd/serenity-junit-starter.git
-    cd serenity-junit-starter
-
+    git clone https://github.com/tazello/tsum_test.git
 
 ## Use Gradle
 
